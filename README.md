@@ -7,6 +7,8 @@
 # [UniPal-Frontend](https://github.com/cyntaria/UniPal-Frontend)
 - Riverpod
 - Excellent core network with Dio
-- 
 
-# [NoteApp Domain-Driven Clean Architecture with FlutterBloc + Freezed + Hive](https://github.com/imSanjaySoni/NoteApp-Clean-Architecture)
+# [NoteApp Domain-Driven Clean Architecture](https://github.com/imSanjaySoni/NoteApp-Clean-Architecture)
+- FlutterBloc
+- Freezed
+- Hive
