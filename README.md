@@ -8,3 +8,5 @@
 - Riverpod
 - Excellent core network with Dio
 - 
+
+# [NoteApp Domain-Driven Clean Architecture with FlutterBloc + Freezed + Hive](https://github.com/imSanjaySoni/NoteApp-Clean-Architecture)
