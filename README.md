@@ -9,6 +9,9 @@
   - Freezed
   - Hive
 
+  ## [Rorty 📺 (work-in-progress for V2 👷🔧️👷‍♀️⛏)](https://github.com/developersancho/Rorty.Flutter)
+  Flutter Clean Architecture in Rorty is a sample project that presents modern, approach to Flutter application development using Dart and latest tech-stack.
+
 ----------
 
 # 2. Starter Apps For Flutter
