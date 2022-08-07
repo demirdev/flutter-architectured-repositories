@@ -23,6 +23,10 @@
 # 2. Provider
 
   ## [Flutter-Music-App](https://github.com/Prometheum01/Flutter-Music-App)
+  
+# 3. Riverpod
+  
+  ## [Movies App](https://github.com/Roaa94/movies_app)
 
 # 3. ???
 
