@@ -11,6 +11,9 @@
 
   ## [Rorty 📺 (work-in-progress for V2 👷🔧️👷‍♀️⛏)](https://github.com/developersancho/Rorty.Flutter)
   Flutter Clean Architecture in Rorty is a sample project that presents modern, approach to Flutter application development using Dart and latest tech-stack.
+  
+  ## [Flutter News App](https://github.com/CoderJava/Flutter-News-App)
+  News App developed with Flutter and API from News API
 
 ----------
 
